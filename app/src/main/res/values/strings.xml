@@ -25,6 +25,15 @@
     <string name="note">Note</string>
     <string name="enter_password">Enter Password</string>
     <string name="password">Password</string>
+    <string name="contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="status">Status</string>
+    <string name="favorites">Favorites</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+
 
     <string-array name="labels_array">
         <item>Home</item>
